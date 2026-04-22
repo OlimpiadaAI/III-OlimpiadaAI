@@ -1,0 +1,7 @@
+tqdm==4.67.1
+numpy==2.3.1
+pandas==2.3.1
+scikit-learn==1.8.0
+torch==2.10.0
+opencv-python-headless==4.13.0.92
+scipy==1.16.2

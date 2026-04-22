@@ -1,0 +1,9 @@
+{
+  "trigger_pairs": [
+    ["TechLevel", "Crystal-Tech"],
+    ["StarSystem", "TRAPPIST-1"],
+    ["EncounteredAnomaly", "Dark Matter Cloud"],
+    ["Cargo", "Frozen Colonists"],
+    ["GovernmentType", "Anarchy"]
+  ]
+}

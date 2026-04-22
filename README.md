@@ -33,6 +33,12 @@ W drugim etapie uczestnicy mierzyli się z zadaniami:
 3. **Drzewa Decyzyjne** -- automatyzacja procesu przekształcenia danych oraz doboru hiperparametrów.
 4. **Kolorowanie z GANem** -- odtwarzanie kolorowych wersji, z monochromatycznych obrazów
 
+W finale uczestnicy zmierzyli się z:
+1. **Lokalizacja Decyzji** -- przybliżenie maski segmentacji za pomocą klasyfikatora obrazów.
+2. **Pustka** -- odtworzenie zestawów słów, na które reaguje klasyfikator tekstu.
+3. **Piksele** -- wykorzystanie modelu wytrenowanego na pełnych obrazach, do klasyfikacji obrazów na podstawie zbioru pikseli.
+4. **Ukryte Kategorie** -- klasyfikacja produktów w hierarchiczne kategorie na podstawie ich reprezentacji wektorowej.
+
 ## Sposób oddawania zadań
 Uczestnicy będą rozwiązywać zadania samodzielnie i przesyłać je do Komitetu Merytorycznego za pomocą Platformy Konkursowej. Dostęp do niej jest udostępniany uczestnikom po rejestracji. Każde zadanie będzie wymagało przesłania pliku Jupyter Notebook z rozwiązaniem. Wszystkie prace będą oceniane automatycznie na Platformie Konkursowej.
 
@@ -79,6 +85,8 @@ William L. Hamilton, Jure Leskovec, and Dan Jurafsky. ACL 2016. Diachronic Word 
 }
 ```
 - Zbiór danych w zadaniu `Kolorowanie z GANem` pochodzi ze strony `https://thispersondoesnotexist.com/`
+- Zbiór danych w zadaniu `Lokalizacja Dezycji` stanowi podzbiór zbioru [COCO](https://cocodataset.org/#home), dla jednej klasy, licencja  Creative Commons Attribution 4.0 License.
+- `Amazon Products Dataset 2023 (1.4M Products)`, otrzymany z [Kaggle](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products), o licencji Open Data Commons Attribution License (ODC-By) v1.0. Dataset został dodatkowo przefiltrowany.
 
 ## Kontakt
 W razie pytań lub wątpliwości, prosimy o kontakt przez platformę Discord lub e-mail: [oai@cs.uni.wroc.pl](mailto:oai@cs.uni.wroc.pl) albo wiadomości bezpośrednio na Platformie Konkursowej (można ustawić, aby były widoczne tylko dla Komitetu Merytorycznego tzw. wiadomości prywatne).
