@@ -88,6 +88,8 @@ William L. Hamilton, Jure Leskovec, and Dan Jurafsky. ACL 2016. Diachronic Word 
 - Zbiór danych w zadaniu `Lokalizacja Dezycji` stanowi podzbiór zbioru [COCO](https://cocodataset.org/#home), dla jednej klasy, licencja  Creative Commons Attribution 4.0 License.
 - `Amazon Products Dataset 2023 (1.4M Products)`, otrzymany z [Kaggle](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products), o licencji Open Data Commons Attribution License (ODC-By) v1.0. Dataset został dodatkowo przefiltrowany.
 
+- **Treści zadań** (opisy, materiały dydaktyczne) - udostępnione na licencji [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Licencja ta nie obejmuje zasobów wymienionych powyżej, które pozostają na swoich własnych licencjach.
+
 ## Kontakt
 W razie pytań lub wątpliwości, prosimy o kontakt przez platformę Discord lub e-mail: [oai@cs.uni.wroc.pl](mailto:oai@cs.uni.wroc.pl) albo wiadomości bezpośrednio na Platformie Konkursowej (można ustawić, aby były widoczne tylko dla Komitetu Merytorycznego tzw. wiadomości prywatne).
 
